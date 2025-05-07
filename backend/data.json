@@ -1,0 +1,17 @@
+{
+    "Pensión para el Bienestar de las Personas Adultas Mayores": {
+      "url": "https://www.gob.mx/bienestar/articulos/pension-para-adultos-mayores",
+      "edades": "65 años en adelante",
+      "descripcion": "Programa del Gobierno de México que otorga un apoyo económico bimestral a personas adultas mayores para mejorar su calidad de vida."
+    },
+    "Despensas DIF para Adultos Mayores": {
+      "url": "https://www.dif.gob.mx/programa-despensas-adultos-mayores",
+      "edades": "60 años en adelante",
+      "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
+    },
+    "Programa de Atención Integral al Adulto Mayor (PAIAM)": {
+      "url": "https://www.cdmx.gob.mx/servicios/programas/atencion-integral-adulto-mayor",
+      "edades": "60 años en adelante",
+      "descripcion": "Ofrece atención médica, psicológica, nutricional y actividades recreativas a adultos mayores en la Ciudad de México."
+    }
+  }
