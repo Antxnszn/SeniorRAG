@@ -2,16 +2,139 @@
     "Pensión para el Bienestar de las Personas Adultas Mayores": {
       "url": "https://www.gob.mx/bienestar/articulos/pension-para-adultos-mayores",
       "edades": "65 años en adelante",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
       "descripcion": "Programa del Gobierno de México que otorga un apoyo económico bimestral a personas adultas mayores para mejorar su calidad de vida."
     },
     "Despensas DIF para Adultos Mayores": {
       "url": "https://www.dif.gob.mx/programa-despensas-adultos-mayores",
       "edades": "60 años en adelante",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
       "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
     },
     "Programa de Atención Integral al Adulto Mayor (PAIAM)": {
       "url": "https://www.cdmx.gob.mx/servicios/programas/atencion-integral-adulto-mayor",
       "edades": "60 años en adelante",
-      "descripcion": "Ofrece atención médica, psicológica, nutricional y actividades recreativas a adultos mayores en la Ciudad de México."
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
+      "descripcion": "Descripcion del programa"
+    },
+    "Pensión por Régimen 97 - Renta Vitalicia ":{
+      "url":"https://www.gob.mx/consar/articulos/por-regimen-de-97?idiom=es",
+      "edades":"60 años", 
+      "grupo_destino":"Esta modalidad aplica si comenzaste a cotizar a partir del 1º de julio de 1997.",
+      "cotizar": "",
+      "requerimientos":"En 2025, requerirás un mínimo de 850 semanas de cotización, Tener 60 a 64 años en caso de Pensión por Cesantía, Tener 65 años en caso de Pensión por Vejez, Tener tu Expediente de Identificación de Trabajador actualizado (genéralo en tu Afore)",      
+      "documentos":"Identificación oficial, Estado de Cuenta de la Afore o algún comprobante que acredite tu registro en la Administradora (si no cuentas con él solicítalo a tu Afore), Estado de cuenta bancario con número de Clave Bancaria Estandarizada (CLABE), Resolución o Negativa de pensión emitida por el IMSS",
+      "notas":"Podrás retirarte de manera anticipada sin necesidad de cumplir las edades establecidas, si la pensión que se te calcule bajo la modalidad de Renta Vitalicia es superior en más del 30 por ciento de la pensión mínima garantizada. En caso de que exista algún excedente de recursos, podrás retirarlo en efectivo. La disposición de los recursos de la Cuenta Afore así como de sus rendimientos estará exenta del pago de impuestos, Debes comprar un Seguro de Sobrevivencia que permitirá a tus beneficiarios recibir una pensión a la muerte del pensionado, Al adquirir una renta vitalicia se te garantiza el pago de una pensión predeterminada de por vida, El monto de tu pensión dependerá del saldo acumulado en tu Cuenta Afore. Se actualizará anualmente de acuerdo a la inflación, Tu pensión dependerá exclusivamente del saldo acumulado en tu cuenta Afore. De acuerdo con la Ley del Seguro Social, a partir de 2022 el requisito de semanas cotizadas se incrementará cada año en 25 semanas hasta llegar a 1,000 semanas en 2031.",
+      "proceso":"1. Acude a la Subdelegación del IMSS que te corresponda y presenta tu Solicitud de Pensión. El IMSS te entregará el “Documento de Oferta” (conoce los Formatos aquí) con información relevante para elegir la Aseguradora que pagará tu pensión. No todas son iguales. Escoge la Aseguradora que más te convenga y se ajuste a tus intereses. Este Documento lo llenará el IMSS dependiendo de lo que tú elijas, 2. Una vez entregada tu Solicitud ante el IMSS deberás esperar a la resolución de pensión, 3.Cuando el IMSS te entregue la resolución deberás acudir a tu Aseguradora para que ésta inicie con el pago de tu pensión, 4.Si tienes recursos del SAR 92 porque trabajaste antes de 1997, podrás retirarlos en una sola exhibición directamente en tu Afore.",
+      "descripcion":"Es una pensión de por vida que se contrata con una Aseguradora (el IMSS te indicará qué Aseguradoras prestan este servicio).",
+      "modalidades":"A: Renta Vitalicia. Donde la pensión la paga una Asezguradora",
+      "vienes_adquiridos":"" 
+
+    },
+    "Pension por Régimen 73":{
+      "url":"https://www.gob.mx/consar/articulos/pension-por-regimen-73?state=draft",
+      "edades":"60 años en adelante", 
+      "grupo_destino":"adultos mayores que entran dentro de la ley 1973",
+      "cotizar": "Tener mínimo 500 semanas de cotización (Consulta tus semanas cotizadas aquí).",
+      "requerimientos":"Esta modalidad aplica si cotizaste antes del 1º de julio de 1997, Tener mínimo 500 semanas de cotización, Dependiendo de la edad en la que te pensiones, te otorgarán un porcentaje de la pensión que te correspondería si esperaras hasta los 65 años de edad. ",      
+      "documentos":"Identificación oficial, Estado de Cuenta de tu AFORE o algún comprobante que acredite tu registro en la Administradora (si no cuentas con él solicítalo a tu AFORE), Estado de cuenta bancario con número de Clave Bancaria Estandarizada (CLABE)Resolución o Negativa de pensión emitida por el IMSS",
+      "notas":"Dependiendo de la edad en la que te pensiones, te otorgarán un porcentaje de la pensión que te correspondería si esperaras hasta los 65 años de edad, Pensión de vejez: edad 65 años otorga 100% de la pensión, Pensión de cesantía: 60años: 75%, 61años: 80%, 62 años: 85%, 63 años: 90% y 64 añps: 95%, Para determinar la pensión se toma en cuenta el salario diario promedio de las últimas 250 semanas cotizadas (aproximadamente 5 años) y tu nivel salarial.SI tienes 60 años de edad o más y el IMSS determina que no cumples con los requisitos establecidos en la Ley del Seguro Social para que te otorguen una pensión (500 semanas cotizadas), te entregarán en efectivo los recursos de tu cuenta AFORE. En caso de tener recursos de SAR IMSS 92 y SAR INFONAVIT 92, estos se te entregarán hasta cumplir 65 años",
+      "proceso":"1. Acude a la Subdelegación del IMSS a realizar tu Solicitud de Pensión, 2. Una vez que obtengas respuesta del IMSS y conozcas la modalidad de retiro que te corresponde, acude a tu AFORE para iniciar tu trámite de disposición los recursos, 3. Presenta en la sucursal de tu AFORE la documentación antes señalada junto con la “Solicitud de Disposición de Recursos” que te será proporcionada, debidamente llenada y firmada. 4. En un plazo no mayor a 6 días hábiles, la AFORE pondrá a tu disposición los recursos que te corresponden de acuerdo al régimen pensionario que elegiste.",
+      "descripcion":"Esta modalidad aplica si cotizaste antes del 1º de julio de 1997",
+      "modalidades":"proceso con un única modalidad" ,
+      "vienes_adquiridos":"En efectivo: SAR 92-97(que incluye SAR IMSS 1992 y SAR INFONAVIT 1992), Retiro 97 a la fecha de retiro, IFONAVIT 97( de accuerdo con los lineamientos establecidos por el INFONAVIT www.infonavit.org.mx, tel: 01800-008-3900, lada sin costos). No se entrega en efectivo ua que se canaliza al pago de tupensión: Cesantía en edad avanzada y vejez, Cuota Social."
+    },    
+    "Retiros parciales IMSS - Retiro Parcial Por Matrimonio - Sitio Web ":{
+      "url": "https://www.gob.mx/consar/articulos/por-regimen-de-97",
+      "edades": "No tiene limites de edad",
+      "grupo_destino": "Si ya no estás laborando y contrajiste matrimonio dentro de los 90 días hábiles a partir de tu baja ante el IMSS, podrás solicitar esta prestación.",
+      "cotizar": "Tener un mínimo de 150 semanas cotizadas contadas a partir del 1º de julio de 1997",
+      "requerimientos":"Contar con al menos 150 semanas cotizadas antes de la fecha de matrimonio civil, Que tu matrimonio civil haya sido a partir del 1 de julio de 1997, No haber obtenido este derecho con anterioridad, Estar vigente como asegurado,Tener tu Expediente de Identificación de Trabajador actualizado (genéralo en tu AFORE), Recuerda que este trámite solo lo puedes realizar una vez ",
+      "documentos":"Identificación oficial,Acta de Matrimonio,Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional),Pre-Solicitud de disposición de recursos por Retiro Parcial por Matrimonio generada en el portal E-SAR.",
+      "notas":"El trámite de Retiro Parcial por Matrimonio IMSS es gratuito y no implica una reducción en las semanas de cotización que tienes registradas ante el IMSS.",
+      "proceso":"1. Realiza la Pre-solicitud de Retiro Parcial por Ayuda para Gastos de Matrimonio en el portal www.e-sar.com.mx para obtener la Clave Única de Servicio o bien, acude directamente a alguna sucursal de tu AFORE  para que te apoyen generar tu pre-solicitud, 2.Acude con tus documentos a la sucursal seleccionada en la Pre-solicitud y firma la solicitud de disposición de recursos que te proporcionará la AFORE, 3.Una vez realizada la solicitud, tu AFORE gestionará el trámite ante el IMSS para obtener el certificado del derecho al Retiro Parcial por Ayuda para Gastos de Matrimonio. Cuando lo obtenga, te hará entrega de los recursos vía depósito u orden de pago en un plazo de máximo 5 días hábiles. ",
+      "descripcion": "Es un beneficio que te permite hacer un retiro parcial de los recursos de tu Cuenta AFORE por matrimonio. Equivale a 30 veces el valor de la Unidad de Medida y Actualización (UMA).",
+      "modalidades": "modalidad única",
+      "vienes_adquiridos":""
+    },
+    "Retiros parciales IMSS - Retiro Parcial Por Matrimonio - Aplicación Movil ":{
+      "url": "https://www.gob.mx/consar/articulos/por-regimen-de-97",
+      "edades": "No tiene limites de edad",
+      "grupo_destino": "Si ya no estás laborando y contrajiste matrimonio dentro de los 90 días hábiles a partir de tu baja ante el IMSS, podrás solicitar esta prestación.",
+      "cotizar": "Tener un mínimo de 150 semanas cotizadas contadas a partir del 1º de julio de 1997",
+      "requerimientos":"Contar con al menos 150 semanas cotizadas antes de la fecha de matrimonio civil, Es indispensable que cuentes con tu Expediente Electrónico completo (datos, imágenes de tus documentos y huellas digitales). Si aún no cuentas con tu Expediente, deberás acudir previamente a tu AFORE y solicitar su elaboración antes de realizar el trámite vía AforeMóvil,Que tu matrimonio civil haya sido a partir del 1 de julio de 1997, Estar activo en el IMSS o bien, haberte casado por lo civil dentro de los 90 días hábiles contados a partir de la baja laboral,Este derecho se puede ejercer solo una vez,El retiro equivale a 30 veces el valor de la UMA.",
+      "documentos":"Identificación oficial,Acta de Matrimonio,Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional),Pre-Solicitud de disposición de recursos por Retiro Parcial por Matrimonio generada en el portal E-SAR.",
+      "notas":"El trámite de Retiro Parcial por Matrimonio IMSS es gratuito y no implica una reducción en las semanas de cotización que tienes registradas ante el IMSS.",
+      "proceso":"1. Realiza la Pre-solicitud de Retiro Parcial por Ayuda para Gastos de Matrimonio en el portal www.e-sar.com.mx para obtener la Clave Única de Servicio o bien, acude directamente a alguna sucursal de tu AFORE  para que te apoyen generar tu pre-solicitud, 2.Acude con tus documentos a la sucursal seleccionada en la Pre-solicitud y firma la solicitud de disposición de recursos que te proporcionará la AFORE, 3.Una vez realizada la solicitud, tu AFORE gestionará el trámite ante el IMSS para obtener el certificado del derecho al Retiro Parcial por Ayuda para Gastos de Matrimonio. Cuando lo obtenga, te hará entrega de los recursos vía depósito u orden de pago en un plazo de máximo 5 días hábiles. ",
+      "descripcion": "Es un beneficio que te permite hacer un retiro parcial de los recursos de tu Cuenta AFORE por matrimonio. Equivale a 30 veces el valor de la Unidad de Medida y Actualización (UMA).",
+      "modalidades": "modalidad única",
+      "vienes_adquiridos":"no especificado"
+    },
+    "Retiros parciales IMSS - Retiro Parcial por desempleo - Sitio Web":{
+      "url":"https://www.gob.mx/consar/articulos/retiros-parciales-97089",
+      "edades":"No tiene limites de edad", 
+      "grupo_destino":"adultos mayores que entran dentro de la ley 1973 o a la ley 1997",
+      "cotizar": "104 semanas cotizadas ",
+      "requerimientos":"Tener 46 días naturales de estar desempleado, Tener al menos 3 años con tu cuenta de ahorro para el retiro abierta y 2 años cotizados ante el IMSS, No haber efectuado este retiro en los últimos 5 años anteriores, Tener tu Expediente de Identificación de Trabajador actualizado (genéralo en tu AFORE). ",      
+      "documentos":"Identificación oficial, Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional), Clave Única de Servicios (CUS) generada en el portal AforeWeb.",
+      "notas":"si realizas este tipo de retiro te descontarán semanas cotizadas, lo que podría afectar tu pensión futura. Si finalmente retiras, puedes reintegrar posteriormente los recursos retirados de tu Cuenta AFORE y con ello recuperar las semanas de cotización descontadas.",
+      "proceso":"1. Genera una cita ingresando al portal AforeWeb con tu usuario y contraseña, si no tienes un usuario, puedes generarlo ingresando tu CURP, correo electrónico y número de celular. En el menú selecciona la opción “Mis trámites” y da clic en “Generación de citas”. Deberás elegir Retiro por desempleo IMSS y el portal te solicitará que registres un horario en el que pueda contactarte. También deberás especificar la sucursal, la fecha y el horario en que desees agendar tu cita para iniciar el trámite. Si la solicitud es exitosa recibirás un correo con los datos registrados y tu Clave Única de Servicio (CUS)., 2.Acude con tus documentos a la sucursal seleccionada en tu cita y firma la solicitud de disposición de recursos que te proporcionará la AFORE y un formato que te informa sobre las consecuencias de realizar este retiro. La AFORE te lo proporcionará., 3. Tu AFORE gestionará ante el IMSS tu certificado de derecho al Retiro Parcial por Desempleo., 4.Una vez certificado el derecho por parte del IMSS, podrás disponer de los recursos bajo cualquiera de las dos modalidades.   ",
+      "descripcion":"Es un beneficio que te ofrece tu cuenta AFORE donde puedes hacer un retiro parcial de tus recursos en caso de estar desempleado.",
+      "modalidades": "Modalidad A. Si tu cuenta AFORE tiene al menos tres años de haber sido abierta y un mínimo de 2 años de cotización al IMSS, recibirás en una sola exhibición 30 días de tu último Salario Base de Cotización con un límite de 10 veces el valor de la Unidad de Medida y Actualización (UMA), Modalidad B. Si tu cuenta tiene 5 años o más de haber sido abierta, recibirás lo que resulte menor entre 90 días de tu Salario Base de Cotización de las últimas 250 semanas o el 11.5 % de los recursos acumulados en la subcuenta de Retiro, Cesantía en edad avanzada y Vejez (RCV).",
+      "vienes_adquiridos":"no especificado"
+    },
+    "Retiros parciales IMSS - Retiro Parcial por desempleo - Aplicación Movil":{
+      "url":"https://www.gob.mx/consar/articulos/retiros-parciales-97089",
+      "edades":"No tiene limites de edad", 
+      "grupo_destino":"adultos mayores que entran dentro de la ley 1973 o a la ley 1997",
+      "cotizar": "104 semanas cotizadas ",
+      "requerimientos":"Deberás ingresar al portal AforeWeb con tu usuario y contraseña, si no tienes un usuario, puedes generarlo ingresando tu CURP, correo electrónico y número de celular., Recuerda que es indispensable que cuentes con tu Expediente Electrónico completo (datos, imágenes de tus documentos y huellas digitales). Si aún no lo tienes, deberás acudir previamente a tu AFORE y solicitar su elaboración antes de realizar el trámite vía AforeWeb.",      
+      "documentos":"Identificación oficial, Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional), Clave Única de Servicios (CUS) generada en el portal AforeWeb.",
+      "notas":"​Este trámite es completamente gratuito, La CONSAR recomienda a todos los trabajadores analizar muy bien la conveniencia de hacer uso del Retiro parcial por Desempleo, ya que este retiro podría afectar el monto de su pensión a futuro.",
+      "proceso":"Una vez que estés en el portal, elige en el Menú la opción “Mis retiros”. Se mostrará información relevante sobre los requisitos para realizar esta opción de retiro, 1. Deberás elegir un método para firmar “Token o NIP”, 2. Enseguida ingresarás el código de autenticación, mismo que recibirás vía SMS o WhatsApp, 3. Se mostrará el tipo de retiro por desempleo al que tienes derecho, en su caso, deberás elegir una opción, 4. Es importante que revises cuidadosamente las implicaciones que tiene hacer un retiro parcial por desempleo. 5. Selecciona la forma de pago: Orden de pago o Cuenta CLABE 6.Deberás adjuntar tu identificación oficial y estado de cuenta bancario, en caso de solicitar el pago de recursos a través de su cuenta CLABE, 7. Finalmente deberás confirmar tu solicitud.",
+      "descripcion":"Es un beneficio que te ofrece tu cuenta AFORE donde puedes hacer un retiro parcial de tus recursos en caso de estar desempleado.",
+      "modalidades": "Modalidad A. Si tu cuenta AFORE tiene al menos tres años de haber sido abierta y un mínimo de 2 años de cotización al IMSS, recibirás en una sola exhibición 30 días de tu último Salario Base de Cotización con un límite de 10 veces el valor de la Unidad de Medida y Actualización (UMA), Modalidad B. Si tu cuenta tiene 5 años o más de haber sido abierta, recibirás lo que resulte menor entre 90 días de tu Salario Base de Cotización de las últimas 250 semanas o el 11.5 % de los recursos acumulados en la subcuenta de Retiro, Cesantía en edad avanzada y Vejez (RCV).",
+      "vienes_adquiridos":"no especificado"
+    },
+    "Retiros parciales IMSS - Retiro Parcial por desempleo - Portal Afore Web":{
+      "url":"https://www.gob.mx/consar/articulos/retiros-parciales-97089",
+      "edades":"No tiene limites de edad", 
+      "grupo_destino":"adultos mayores que entran dentro de la ley 1973 o a la ley 1997",
+      "cotizar": "104 semanas cotizadas ",
+      "requerimientos":"tener la aplicación AforeMóvil, ",      
+      "documentos":"Identificación oficial, Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional), Clave Única de Servicios (CUS) generada en el portal AforeWeb.",
+      "notas":"​​Recuerda que es indispensable que cuentes con tu Expediente Electrónico completo (datos, imágenes de tus documentos y huellas digitales). Si aún no lo tienes, deberás acudir previamente a tu AFORE y solicitar su elaboración antes de realizar el trámite vía AforeMóvil,Una vez validada tu solicitud de Retiro por Desempleo, podrás disponer de tus recursos a más tardar en 5 días hábiles. ",
+      "proceso":"1. Una vez que estés en la aplicación AforeMóvil, elige el Menú Servicios, 2. Selecciona la opción Retiro por Desempleo IMSS, 3. La aplicación te mostrará información relevante sobre los requisitos para realizar esta opción de retiro, 4. Toma una fotografía de tu rostro para realizar una validación facial, 5. Se mostrará el tipo de retiro por desempleo al que tienes derecho, en su caso, deberás elegir una opción, 6. Revisa cuidadosamente las implicaciones que tiene hacer un retiro parcial por desempleo, 7. Selecciona la forma de pago: Orden de pago o Cuenta CLABE, 8. Captura los datos y documentos para la solicitud (identificación oficial vigente y estado de cuenta bancario, si solicitas el pago a través de cuenta CLABE), 9. Finalmente, firma la solicitud con tu contraseña generada al activar AforeMóvil.",
+      "descripcion":"Es un beneficio que te ofrece tu cuenta AFORE donde puedes hacer un retiro parcial de tus recursos en caso de estar desempleado.",
+      "modalidades": "Modalidad A. Si tu cuenta AFORE tiene al menos tres años de haber sido abierta y un mínimo de 2 años de cotización al IMSS, recibirás en una sola exhibición 30 días de tu último Salario Base de Cotización con un límite de 10 veces el valor de la Unidad de Medida y Actualización (UMA), Modalidad B. Si tu cuenta tiene 5 años o más de haber sido abierta, recibirás lo que resulte menor entre 90 días de tu Salario Base de Cotización de las últimas 250 semanas o el 11.5 % de los recursos acumulados en la subcuenta de Retiro, Cesantía en edad avanzada y Vejez (RCV).",
+      "vienes_adquiridos":"no especificado"
+    },
+    
+    "Programa de Pensión para Adultos Mayores":{
+      "url": "https://www.gob.mx/bienestar/acciones-y-programas/pension-para-adultos-mayores",
+      "edades": "60 años en adelante, Acta de Matrimonio, Estado de cuenta bancario a tu nombre con número de Clave Bancaria Estandarizada (CLABE) (opcional), Pre-Solicitud de disposición de recursos por Retiro Parcial por Matrimonio generada en el portal E-SAR.",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
+      "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
+    },
+    "Pensión Mujeres Bienestar ":{
+      "url": "https://programasparaelbienestar.gob.mx/pension-mujeres-bienestar/",
+      "edades": "60 años en adelante",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
+      "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
+    },
+    "Salud Casa por Casa":{
+      "url": "https://programasparaelbienestar.gob.mx/salud-casa-por-casa/",
+      "edades": "60 años en adelante",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
+      "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
+    },
+    "Pensión para el Bienestar de las Personas con Discapacidad":{
+      "url": "https://programasparaelbienestar.gob.mx/pension-bienestar-personas-con-discapacidad/",
+      "edades": "60 años en adelante",
+      "cotizar": "Esta modealidad no tiene requerimientos de cotización.",
+      "descripcion": "Entrega de despensas con productos básicos a adultos mayores en situación vulnerable, promovido por el Sistema DIF."
     }
   }
+
+
+
